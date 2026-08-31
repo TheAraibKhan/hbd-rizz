@@ -310,7 +310,7 @@ function initConstellation() {
       drawConstellation(lines, pts, lit);
       showMessage(
         lit.length === pts.length
-          ? "The stars spelled it quietly: Happy Birthday Mohaddissa."
+          ? "The stars spelled it quietly: Happy Birthday Ridhima."
           : nextMessage(),
       );
     });
